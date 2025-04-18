@@ -72,7 +72,7 @@ To make Jenkins build automatically on code changes, we need to configure **GitH
 3. Scroll to **Build Triggers**
 4. Check **"GitHub hook trigger for GITScm polling"**
 
-📸 *(Image placeholder for GitHub webhook setting UI)*
+
 
 ---
 
